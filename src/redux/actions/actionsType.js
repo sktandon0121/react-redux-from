@@ -1,0 +1,4 @@
+const CREATE_DATA = "CREATE_DATA";
+const UPDATE_DATA = "UPDATE_DATA";
+
+export { CREATE_DATA, UPDATE_DATA };
